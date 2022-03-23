@@ -1,0 +1,28 @@
+.profil {
+  width: 280px;
+  height: 450px;
+  background-color: rgb(117, 113, 121);
+  margin-top: 20px;
+  text-align: center;
+}
+.App {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+.list {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+img {
+  width: 280px;
+  height: 450px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
